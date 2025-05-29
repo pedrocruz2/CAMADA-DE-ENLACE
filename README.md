@@ -6,5 +6,4 @@ A demonstração está disponível no seguinte link:
 
 Irei fazer melhor módulo que vem !
 
-![clean](https://i.pinimg.com/736x/e1/95/93/e195930da34d0343aac9e3e0d20b173e.jpg)
 
